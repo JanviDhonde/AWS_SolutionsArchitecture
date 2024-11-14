@@ -1,6 +1,6 @@
 ## AWS APAC Solutions Architecture Virtual Experience Program 
 **AWS_SolutionsArchitecture:** <br>
-Completed the AWS APAC Solutions Architecture Virtual Experience, where I designed scalable hosting architectures using AWS Elastic Beanstalk, created architecture diagrams, and communicated technical details in plain language. Gained insights into AWS pricing, cost estimation, and client communication, enhancing my cloud architecture skills.
+Completed the AWS APAC Solutions Architecture Virtual Experience, where I designed scalable hosting architectures using AWS Elastic Beanstalk, created architecture diagrams, and communicated technical details in plain language. Gained insights into AWS pricing, cost estimation, and client communication, enhancing my cloud architecture skills..
 
 **Repository Overview:**  
 This repository documents my participation in the **AWS APAC Solutions Architecture Virtual Experience Program** on the Forage platform. During this program, I gained hands-on experience in designing scalable and simple hosting architectures using AWS services like Elastic Beanstalk. I also practiced technical communication by explaining my design choices and cost estimations to clients.
